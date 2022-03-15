@@ -1,0 +1,27 @@
+{
+  "name": "coding-train",
+  "version": "1.0.0",
+  "description": "This is the data selfie app by Joey Lee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpbam/node-coding-train.git"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "selfie"
+  ],
+  "author": "Derek Phelps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpbam/node-coding-train/issues"
+  },
+  "homepage": "https://github.com/dpbam/node-coding-train#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
